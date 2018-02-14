@@ -1,0 +1,11 @@
+{
+  "name": "2-header-parser-microservice",
+  "version": "",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "express-useragent": "^1.0.12",
+    "moment": "^2.20.1",
+    "request-ip": "^2.0.2"
+  }
+}
